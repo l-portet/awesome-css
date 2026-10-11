@@ -103,6 +103,7 @@ Explore, learn, and contribute.
 
 ## Responsive Design
 
+- [PagePatch Hero Worked Example](https://github.com/l-portet/pagepatch-free-hero) - Compare fixed-width and fluid hero layouts in a free AI-generated HTML/CSS example, with explained changes. *(guide)*
 - [Complete Guide to Responsive Website Design in 2026](https://webcraftdev.com/en/blog/complete-guide-responsive-website-2026) - Apply auto-fit grids, fluid typography, container queries, and Core Web Vitals to real-world projects *(article)*
 - [Responsive web design basics | Web.dev](https://web.dev/articles/responsive-web-design-basics?hl=en) - Create sites that respond to the needs and capabilities of the device. *(guide)*
 - [CSS Container Queries Guide | design.dev](https://design.dev/guides/css-container-queries/) - Complete reference for building modular components that adapt to their container size with syntax, units, and patterns *(guide)*
